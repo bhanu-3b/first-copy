@@ -1,5 +1,9 @@
-call=input("what you called your father:")
-if call=="dad":
+call=input("what you called your husband:")
+if call=="srinubabu":
     print(call)
 else:
-    print("ooohhh...son called me you are not my dad you are ",call)
+    print("ooohhh...mani called me you are not my husband you are ",call)
+    if call=="babu":
+        print(call)
+    else:
+        print("nmnmnm")
